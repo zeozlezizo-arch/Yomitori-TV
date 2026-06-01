@@ -9,5 +9,8 @@ node_modules
 .env*.local
 .DS_Store
 
+# Build artifacts
+*.tsbuildinfo
+
 # Local editor / assistant settings
 .claude/
